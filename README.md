@@ -42,3 +42,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Color palette:
+```
+/* CSS */
+--space-cadet: hsla(220, 54%, 25%, 1);
+--yale-blue: hsla(214, 61%, 31%, 1);
+--queen-blue: hsla(208, 46%, 40%, 1);
+--united-nations-blue: hsla(213, 48%, 58%, 1);
+--cerulean-frost: hsla(213, 30%, 62%, 1);
+
+/* SCSS RGB */
+$space-cadet: rgba(29, 52, 97, 1);
+$yale-blue: rgba(31, 72, 126, 1);
+$queen-blue: rgba(55, 105, 150, 1);
+$united-nations-blue: rgba(98, 144, 200, 1);
+$cerulean-frost: rgba(130, 156, 188, 1);
+```
